@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite" parallel="methods" thread-count="1">
+    <test name="Full Regression Tests">
+        <classes>
+            <class name="magento.softwaretestingboard.com.tests.TestCase1"/>
+            <class name="magento.softwaretestingboard.com.tests.TestCase2"/>
+            <class name="magento.softwaretestingboard.com.tests.TestCase3"/>
+            <class name="magento.softwaretestingboard.com.tests.TestCase4"/>
+            <class name="magento.softwaretestingboard.com.tests.TestCase5"/>
+            <class name="magento.softwaretestingboard.com.tests.TestCase12"/>
+            <class name="magento.softwaretestingboard.com.tests.TestCase13"/>
+            <class name="magento.softwaretestingboard.com.tests.TestCase14"/>
+            <class name="magento.softwaretestingboard.com.tests.TestCase15"/>
+            <class name="magento.softwaretestingboard.com.tests.TestCase16"/>
+            <class name="magento.softwaretestingboard.com.tests.TestCase17"/>
+            <class name="magento.softwaretestingboard.com.tests.TestCase18"/>
+            <class name="magento.softwaretestingboard.com.tests.TestCase19"/>
+            <class name="magento.softwaretestingboard.com.tests.TestCase6"/>
+            <class name="magento.softwaretestingboard.com.tests.TestCase7"/>
+            <class name="magento.softwaretestingboard.com.tests.TestCase8"/>
+            <class name="magento.softwaretestingboard.com.tests.TestCase9"/>
+            <class name="magento.softwaretestingboard.com.tests.TestCase10"/>
+            <class name="magento.softwaretestingboard.com.tests.TestCase11"/>
+        </classes>
+    </test>
+</suite>
+
+
+
+
+
+
+
